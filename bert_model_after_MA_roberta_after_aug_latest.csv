@@ -1,0 +1,11 @@
+metric,value
+test_loss,2.013605833053589
+test_Accuracy,0.7633289986996099
+test_Recall,0.7633289986996099
+test_Precision,0.764867615056271
+test_F1 Weighted,0.7613001796503593
+test_F1 Macro,0.8042855426342649
+test_Cohen's Kappa,0.7288980660757454
+test_runtime,1.3594
+test_samples_per_second,565.674
+test_steps_per_second,36.044
